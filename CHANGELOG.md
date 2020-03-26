@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.99.3](https://www.github.com/googleapis/java-vision/compare/v1.99.2...v1.99.3) (2020-03-26)
+
+
+### Dependencies
+
+* update dependency com.google.api:api-common to v1.9.0 ([#93](https://www.github.com/googleapis/java-vision/issues/93)) ([1a9fd23](https://www.github.com/googleapis/java-vision/commit/1a9fd23278ae97aac7331ca1d69388a0f48f4365))
+
 ### [1.99.2](https://www.github.com/googleapis/java-vision/compare/v1.99.1...v1.99.2) (2020-03-09)
 
 
